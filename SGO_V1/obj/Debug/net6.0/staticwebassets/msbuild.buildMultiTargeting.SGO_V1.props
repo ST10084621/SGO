@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SGO_V1.props" />
+</Project>
