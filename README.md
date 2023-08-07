@@ -1,0 +1,2 @@
+# SGO
+Smyrna Global Outreach
